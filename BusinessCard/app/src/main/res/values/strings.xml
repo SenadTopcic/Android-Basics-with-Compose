@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="user_name">Senad Topcic</string>
+    <string name="occupation">Android Developer Extraordinary</string>
+    <string name="phone" >+11 (123) 444 555 666</string>
+    <string name="monkey">@AndroidDev</string>
+    <string name="email">senad.topcic@android.com</string>
+</resources>
