@@ -8,6 +8,7 @@ Use Android app architecture, and Jetpack libraries and work with data according
 
 Unit 1: Your first Android app
 3 pathways | Duration: 10 hours
+
 Exercises
   BusinessCard App
   ComposableArticle App
