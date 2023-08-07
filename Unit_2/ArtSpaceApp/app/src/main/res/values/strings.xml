@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+
+    <string name="Borg_title_1">Observing Eyes of the Borg </string>
+    <string name="Borg_description_1">AI-Assisted Artistry: Stopcic, 2023"</string>
+
+    <string name="Borg_title_2">Farewell and Departure</string>
+    <string name="Borg_description_2">AI-Assisted Artistry: Stopcic, 2023"</string>
+
+    <string name="Borg_title_3">Serene Beachside Relaxation</string>
+    <string name="Borg_description_3">AI-Assisted Artistry: Stopcic, 2023"</string>
+
+    <string name="Borg_title_4">"Grandpa's Tranquil Moments"</string>
+    <string name="Borg_description_4">AI-Assisted Artistry: Stopcic, 2023"</string>
+</resources>
