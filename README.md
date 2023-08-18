@@ -58,7 +58,7 @@ Use Material Design to build modern and intuitive user interfaces, using colors,
  - More Kotlin Fundamentals
  - CoursesApp
  - superhero
- -30DaysApp
+ - 30DaysApp
 
 ## License
 * Copyright (C) 2023 The Android Open Source Project
