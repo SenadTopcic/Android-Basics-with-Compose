@@ -55,7 +55,10 @@ Add an app bar to the app and modify the app theme.
 Use Material Design to build modern and intuitive user interfaces, using colors, shapes and typography.
 
 #### Exercises
-
+ - More Kotlin Fundamentals
+ - CoursesApp
+ - superhero
+ -30DaysApp
 
 ## License
 * Copyright (C) 2023 The Android Open Source Project

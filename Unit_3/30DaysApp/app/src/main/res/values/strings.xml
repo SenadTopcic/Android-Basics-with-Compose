@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">30 Days App</string>
+
+    <string name="nameRes_1">Winston Churchill</string>
+    <string name="quotaRes_1">Success is not final, failure is not fatal: It is the courage to continue that counts.</string>
+    <string name="nameRes_2">Abraham Lincoln</string>
+
+    <string name="quotaRes_2">Success is walking from failure to failure with no loss of enthusiasm.</string>
+    <string name="nameRes_3">Colin R. Davis</string>
+    <string name="quoteRes_3">The road to success and the road to failure are almost exactly the same.</string>
+
+    <string name="nameRes_4">Henry David Thoreau</string>
+    <string name="quoteRes_4">Success usually comes to those who are too busy to be looking for it.</string>
+
+    <string name="nameRes_5">Albert Schweitzer</string>
+    <string name="quoteRes_5">Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.</string>
+
+    <string name="nameRes_6">Bo Bennett</string>
+    <string name="quoteRes_6">Success is not in what you have, but who you are.</string>
+
+    <string name="nameRes_7">Aristotle Onassis</string>
+    <string name="quoteRes_7">The secret to success is to know something nobody else knows.</string>
+
+    <string name="nameRes_8">Booker T. Washington</string>
+    <string name="quoteRes_8">Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.</string>
+
+    <string name="nameRes_9">Unknown</string>
+    <string name="quoteRes_9">Success is not just about making money. It\'s about making a difference.</string>
+
+    <string name="nameRes_10">Eric Idle</string>
+    <string name="quoteRes_10">I think you often learn from failure. Success just teaches you how great you were, but in fact it’s knowing what will fail that will help you to make the right choices.</string>
+
+    <string name="nameRes_11">Vince Lombardi</string>
+    <string name="quoteRes_11">The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.</string>
+
+    <string name="nameRes_12">Napoleon Hill</string>
+    <string name="quoteRes_12">Whatever the mind can conceive and believe, it can achieve.</string>
+
+    <string name="nameRes_13">Steve Jobs</string>
+    <string name="quoteRes_13">Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.</string>
+
+    <string name="nameRes_14">Oprah Winfrey</string>
+    <string name="quoteRes_14">The biggest adventure you can take is to live the life of your dreams.</string>
+
+    <string name="nameRes_15">Thomas Edison</string>
+    <string name="quoteRes_15">"I have not failed. I've just found 10,000 ways that won't work."</string>
+
+    <string name="nameRes_16">Michael Jordan</string>
+    <string name="quoteRes_16">I can accept failure, everyone fails at something. But I can\'t accept not trying.</string>
+
+    <string name="nameRes_17">Coco Chanel</string>
+    <string name="quoteRes_17">Success is most often achieved by those who don’t know that failure is inevitable.</string>
+
+    <string name="nameRes_18">Mark Cuban</string>
+    <string name="quoteRes_18">It doesn\'t matter how many times you have failed, you only have to be right once.</string>
+
+    <string name="nameRes_19">Bill Gates</string>
+    <string name="quoteRes_19">It\'s fine to celebrate success, but it is more important to heed the lessons of failure.</string>
+
+    <string name="nameRes_20">Helen Keller</string>
+    <string name="quoteRes_20">Success is not the absence of failure; it\'s the persistence through failure.</string>
+
+    <string name="nameRes_21">Zig Ziglar</string>
+    <string name="quoteRes_21">You don\'t have to be great to start, but you have to start to be great.</string>
+
+    <string name="nameRes_22">Richard Branson</string>
+    <string name="quoteRes_22">My biggest motivation? Just to keep challenging myself. I see life almost like one long University education that I never had — every day I\'m learning something new.</string>
+
+    <string name="nameRes_23">Elon Musk</string>
+    <string name="quoteRes_23">When something is important enough, you do it even if the odds are not in your favor.</string>
+
+    <string name="nameRes_24">Maya Angelou</string>
+    <string name="quoteRes_24">Success is liking yourself, liking what you do, and liking how you do it.</string>
+
+    <string name="nameRes_25">Warren Buffett</string>
+    <string name="quoteRes_25">It\'s better to hang out with people better than you. Pick out associates whose behavior is better than yours and you\'ll drift in that direction.</string>
+
+    <string name="nameRes_26">J.K. Rowling</string>
+    <string name="quoteRes_26">It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all, in which case you have failed by default.</string>
+
+    <string name="nameRes_27">Muhammad Ali</string>
+    <string name="quoteRes_27">The will must be stronger than the skill.</string>
+
+    <string name="nameRes_28">Nelson Mandela</string>
+    <string name="quoteRes_28">The greatest glory in living lies not in never falling, but in rising every time we fall.</string>
+
+    <string name="nameRes_29">Malcolm X</string>
+    <string name="quoteRes_29">If you have no critics, you\'ll likely have no success.</string>
+
+    <string name="nameRes_30">Johann Wolfgang von Goethe</string>
+    <string name="quoteRes_30">As soon as you trust yourself, you will know how to live.</string>
+
+</resources>
